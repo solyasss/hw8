@@ -1,0 +1,17 @@
+div {
+    padding: 3%;
+    font-size: larger;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    color: white;
+    margin: 1%;
+}
+div ul {
+    list-style-type: none;
+    padding-left: 150px;
+    float:left;
+    background-size: 64px;
+}
+div ul li:hover {
+    text-decoration: underline;
+}
